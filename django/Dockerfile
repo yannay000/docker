@@ -11,5 +11,3 @@ COPY . ./
 #CMD ["/bin/bash"]
 #CMD ["sleep", "infinity"]
 CMD ["./entrypoint.sh"]
-
-

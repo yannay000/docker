@@ -9,5 +9,3 @@ RUN apt-get update
 RUN apt-get install -y curl iputils-ping
 
 CMD ["sleep", "10000"]
-
-
